@@ -1,0 +1,6 @@
+classes = 1
+train = data/list/train.txt
+vaild = data/list/vaild.txt
+test = data/list/test.txt
+names = data/ClassNames.names
+backup = data/backup
